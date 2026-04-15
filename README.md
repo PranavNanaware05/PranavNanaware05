@@ -1,6 +1,13 @@
 
  
 
+
+
+
+
+
+
+
 <!-- Typing Animation with Hiring Message -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=🔥+OPEN+TO+WORK+%7C+IMMEDIATE+JOINER;Pranav+Nanaware+-+Java+Full+Stack+Dev;3%2B+Projects+%7C+500%2B+DSA+Problems;Available+for+Interview+This+Week" />
@@ -34,11 +41,13 @@
 </p>
 
 ✅ **Strong DSA Foundation** - 500+ problems solved on LeetCode & GFG  
-✅ **Production-Ready Skills** - Spring Boot, REST APIs, MySQL  
+✅ **Production-Ready Skills** - Spring Boot, REST APIs, MySQL, PostgreSQL  
 ✅ **Project Experience** - 3 complete full-stack applications  
 ✅ **Fast Learner** - Picked up Spring Boot in 2 weeks  
 ✅ **Team Player** - Git/GitHub workflow expert  
 ✅ **Communication** - Fluent English, Technical documentation  
+✅ **AI Tools Proficiency** - Expert in **Cursor IDE** & **Prompt Engineering** for faster development  
+✅ **Database Expertise** - Skilled in **MySQL** & **PostgreSQL** (Queries, Optimization, Joins, Indexing)
 
 ---
 
@@ -50,21 +59,21 @@
 
 <div align="center">
   
-  `☕ Java 17+` &nbsp;&nbsp; `🍃 Spring Boot` &nbsp;&nbsp; `🗄️ Hibernate` &nbsp;&nbsp; `📊 MySQL` &nbsp;&nbsp; `🔧 REST APIs`
+  `☕ Java 17+` &nbsp;&nbsp; `🍃 Spring Boot` &nbsp;&nbsp; `🗄️ Hibernate` &nbsp;&nbsp; `🐬 MySQL` &nbsp;&nbsp; `🐘 PostgreSQL` &nbsp;&nbsp; `🔧 REST APIs`
   
 </div>
 
 ---
 
-## 📂 **Featured Projects (Live Demos Available)**
+## 📂 **Featured Projects**
 
-| Project | Tech Stack | Key Features | Code |
-|---------|------------|--------------|------|
-| 🚖 **Cab Booking System** | JSP, Servlet, MySQL | User auth, real-time booking, fare calculator | [🔗 Repo](https://github.com/PranavNanaware05) |
-| 📦 **Queue DS Visualizer** | Java, Swing | Interactive visualization, all operations | [🔗 Repo](https://github.com/PranavNanaware05) |
-| 🎨 **Portfolio Website** | HTML, CSS, JS | Responsive, animations, contact form | [🔗 Repo](https://github.com/PranavNanaware05/My-portfolio) |
+| Project | Tech Stack | Key Features |
+|---------|------------|--------------|
+| 🚖 **Cab Booking System** | JSP, Servlet, MySQL/PostgreSQL | User auth, real-time booking, fare calculator |
+| 📦 **Queue DS Visualizer** | Java, Swing | Interactive visualization, all operations |
+| 🎨 **Portfolio Website** | HTML, CSS, JS | Responsive, animations, contact form |
 
-> 💡 *More projects available upon request | Live demo link available*
+> 💡 *More projects available upon request | Live demo available*
 
 ---
 
@@ -90,7 +99,9 @@
 <p align="center">
   <img src="https://img.shields.io/badge/LeetCode-150%2B%20Solved-orange?style=for-the-badge&logo=leetcode" />
   <img src="https://img.shields.io/badge/GFG-350%2B%20Solved-brightgreen?style=for-the-badge&logo=geeksforgeeks" />
-  <img src="https://img.shields.io/badge/Certifications-Java%20%7C%20Spring-blue?style=for-the-badge&logo=coursera" />
+  <img src="https://img.shields.io/badge/Cursor-Pro%20User-blue?style=for-the-badge&logo=cursor" />
+  <img src="https://img.shields.io/badge/Prompt%20Engineering-Expert-00F7FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/PostgreSQL-Skilled-336791?style=for-the-badge&logo=postgresql" />
 </p>
 
 ---
@@ -121,6 +132,7 @@
 + ✅ Notice period: NONE (Immediate joiner)
 + ✅ Portfolio: Production-ready projects
 + ✅ DSA: 500+ problems solved
-+ ✅ Tech stack: Industry relevant
++ ✅ Tech stack: Java, Spring Boot, MySQL, PostgreSQL
++ ✅ AI Tools: Cursor IDE + Prompt Engineering
 + ✅ Communication: Fluent English
 + ✅ Relocation: Open to any location
