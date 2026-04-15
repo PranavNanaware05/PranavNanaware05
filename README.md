@@ -1,16 +1,6 @@
-
- 
-
-
-
-
-
-
-
-
 <!-- Typing Animation with Hiring Message -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=🔥+OPEN+TO+WORK+%7C+IMMEDIATE+JOINER;Pranav+Nanaware+-+Java+Full+Stack+Dev;3%2B+Projects+%7C+500%2B+DSA+Problems;Available+for+Interview+This+Week" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=🔥+OPEN+TO+WORK+%7C+IMMEDIATE+JOINER;Pranav+Nanaware+-+Java+Full+Stack+Dev;Building+Project+Portal+System;Available+for+Interview+This+Week" />
 </p>
 
 <p align="center">
@@ -40,9 +30,9 @@
   <img align="right" alt="coding" width="280" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 </p>
 
-✅ **Strong DSA Foundation** - 500+ problems solved on LeetCode & GFG  
+✅ **DSA Foundation** - Strong problem-solving skills  
 ✅ **Production-Ready Skills** - Spring Boot, REST APIs, MySQL, PostgreSQL  
-✅ **Project Experience** - 3 complete full-stack applications  
+✅ **Current Project** - Building **Project Portal System** (Full Stack)  
 ✅ **Fast Learner** - Picked up Spring Boot in 2 weeks  
 ✅ **Team Player** - Git/GitHub workflow expert  
 ✅ **Communication** - Fluent English, Technical documentation  
@@ -67,13 +57,14 @@
 
 ## 📂 **Featured Projects**
 
-| Project | Tech Stack | Key Features |
-|---------|------------|--------------|
-| 🚖 **Cab Booking System** | JSP, Servlet, MySQL/PostgreSQL | User auth, real-time booking, fare calculator |
-| 📦 **Queue DS Visualizer** | Java, Swing | Interactive visualization, all operations |
-| 🎨 **Portfolio Website** | HTML, CSS, JS | Responsive, animations, contact form |
+| Project | Tech Stack | Key Features | Status |
+|---------|------------|--------------|--------|
+| 🏗️ **Project Portal System** | Spring Boot, PostgreSQL, JSP | Student/Admin panel, project upload, evaluation | 🔄 **In Development** |
+| 🚖 **Cab Booking System** | JSP, Servlet, MySQL | User auth, real-time booking, fare calculator | ✅ Complete |
+| 📦 **Queue DS Visualizer** | Java, Swing | Interactive visualization, all operations | ✅ Complete |
+| 🎨 **Portfolio Website** | HTML, CSS, JS | Responsive, animations, contact form | ✅ Complete |
 
-> 💡 *More projects available upon request | Live demo available*
+> 💡 *Live demo available for completed projects | Project Portal System launching soon*
 
 ---
 
@@ -97,11 +88,11 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/LeetCode-150%2B%20Solved-orange?style=for-the-badge&logo=leetcode" />
-  <img src="https://img.shields.io/badge/GFG-350%2B%20Solved-brightgreen?style=for-the-badge&logo=geeksforgeeks" />
+  <img src="https://img.shields.io/badge/DSA-Strong%20Foundation-orange?style=for-the-badge&logo=leetcode" />
   <img src="https://img.shields.io/badge/Cursor-Pro%20User-blue?style=for-the-badge&logo=cursor" />
   <img src="https://img.shields.io/badge/Prompt%20Engineering-Expert-00F7FF?style=for-the-badge" />
   <img src="https://img.shields.io/badge/PostgreSQL-Skilled-336791?style=for-the-badge&logo=postgresql" />
+  <img src="https://img.shields.io/badge/Project-Portal%20System-2ea44f?style=for-the-badge" />
 </p>
 
 ---
@@ -112,10 +103,10 @@
   <a href="https://github.com/PranavNanaware05/PranavNanaware05/blob/main/Pranav_Resume.pdf">
     <img src="https://img.shields.io/badge/📄_DOWNLOAD_RESUME-PDF-red?style=for-the-badge&logo=adobeacrobatreader" />
   </a>
-  <a href="mailto:pranav.nanaware@example.com">
+  <a href="mailto:npranav536@gmail.com">
     <img src="https://img.shields.io/badge/📧_EMAIL_ME-24hrs_Response-blue?style=for-the-badge&logo=gmail" />
   </a>
-  <a href="https://www.linkedin.com/in/YOUR-LINK">
+  <a href="https://www.linkedin.com/in/pranav-nanaware-071b04250">
     <img src="https://img.shields.io/badge/🔗_LINKEDIN-Connect_Now-0077B5?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="tel:+919876543210">
@@ -130,9 +121,19 @@
 ```diff
 + ✅ Available for immediate interview
 + ✅ Notice period: NONE (Immediate joiner)
-+ ✅ Portfolio: Production-ready projects
-+ ✅ DSA: 500+ problems solved
++ ✅ Portfolio: 3 completed projects + 1 in development
++ ✅ Currently building: Project Portal System
 + ✅ Tech stack: Java, Spring Boot, MySQL, PostgreSQL
 + ✅ AI Tools: Cursor IDE + Prompt Engineering
 + ✅ Communication: Fluent English
 + ✅ Relocation: Open to any location
+ 
+
+
+
+
+
+
+
+
+
