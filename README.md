@@ -100,7 +100,7 @@
 ## 📜 **Resume & Contact (Instant Response)**
 
 <p align="center">
-  <a href="https://github.com/PranavNanaware05/PranavNanaware05/blob/main/Pranav_Resume.pdf">
+  <a href="[https://github.com/PranavNanaware05/PranavNanaware05/blob/main/Pranav_Resume.pdf](https://drive.google.com/file/d/1GHhqSg8Tuj7ja8KA-NfN2hQxMgy51D06/view?usp=drivesdk)">
     <img src="https://img.shields.io/badge/📄_DOWNLOAD_RESUME-PDF-red?style=for-the-badge&logo=adobeacrobatreader" />
   </a>
   <a href="mailto:npranav536@gmail.com">
