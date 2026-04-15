@@ -62,7 +62,7 @@
 |---------|------------|--------------|------|
 | 🚖 **Cab Booking System** | JSP, Servlet, MySQL | User auth, real-time booking, fare calculator | [🔗 Repo](https://github.com/PranavNanaware05) |
 | 📦 **Queue DS Visualizer** | Java, Swing | Interactive visualization, all operations | [🔗 Repo](https://github.com/PranavNanaware05) |
-| 🎨 **Portfolio Website** | HTML, CSS, JS | Responsive, animations, contact form | [🔗 Repo](https://github.com/PranavNanaware05) |
+| 🎨 **Portfolio Website** | HTML, CSS, JS | Responsive, animations, contact form | [🔗 Repo](https://github.com/PranavNanaware05/My-portfolio) |
 
 > 💡 *More projects available upon request | Live demo link available*
 
