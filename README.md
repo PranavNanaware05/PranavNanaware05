@@ -11,6 +11,16 @@
 
 ---
 
+## 👨‍💻 **Bio**
+
+> *"Java Full Stack Developer passionate about building scalable web applications. Currently working on a Project Portal System to streamline project submissions and evaluations. I combine strong backend logic with clean frontend design, leveraging AI tools like Cursor to ship quality code faster. Open to opportunities where I can grow, contribute, and solve real-world problems."*
+
+**⚡ Core Philosophy:** Write clean code, learn continuously, deliver value.
+
+**🎯 Motto:** *"Code. Build. Improve. Repeat."*
+
+---
+
 ## 🎯 **HIRE ME - Quick Summary**
 
 | Category | Details |
@@ -100,8 +110,8 @@
 ## 📜 **Resume & Contact (Instant Response)**
 
 <p align="center">
-  <a href="[https://github.com/PranavNanaware05/PranavNanaware05/blob/main/Pranav_Resume.pdf](https://drive.google.com/file/d/1GHhqSg8Tuj7ja8KA-NfN2hQxMgy51D06/view?usp=drivesdk)">
-    <img src="https://img.shields.io/badge/📄_DOWNLOAD_RESUME-PDF-red?style=for-the-badge&logo=adobeacrobatreader" />
+  <a href="https://drive.google.com/file/d/1GHhqSg8Tuj7ja8KA-NfN2hQxMgy51D06/view?usp=drivesdk">
+    <img src="https://img.shields.io/badge/📄_DOWNLOAD_RESUME-PDF-red?style=for-the-badge&logo=google-drive" />
   </a>
   <a href="mailto:npranav536@gmail.com">
     <img src="https://img.shields.io/badge/📧_EMAIL_ME-24hrs_Response-blue?style=for-the-badge&logo=gmail" />
@@ -127,13 +137,3 @@
 + ✅ AI Tools: Cursor IDE + Prompt Engineering
 + ✅ Communication: Fluent English
 + ✅ Relocation: Open to any location
- 
-
-
-
-
-
-
-
-
-
