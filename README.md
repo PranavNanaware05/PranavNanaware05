@@ -1,6 +1,6 @@
 <!-- Typing Animation with Hiring Message -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=🔥+OPEN+TO+WORK+%7C+IMMEDIATE+JOINER;Pranav+Nanaware+-+Java+Full+Stack+Dev;Building+Project+Portal+System;Available+for+Interview+This+Week" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=🔥+OPEN+TO+WORK+%7C+IMMEDIATE+JOINER;Pranav+Nanaware+-+Java+Full+Stack+Developer;Building+Smart+Agriculture+System;Project+Portal+System+-+90%25+Completed" />
 </p>
 
 <p align="center">
@@ -13,7 +13,7 @@
 
 ## 👨‍💻 **Bio**
 
-> *"Java Full Stack Developer passionate about building scalable web applications. Currently working on a Project Portal System to streamline project submissions and evaluations. I combine strong backend logic with clean frontend design, leveraging AI tools like Cursor to ship quality code faster. Open to opportunities where I can grow, contribute, and solve real-world problems."*
+> *"Java Full Stack Developer passionate about building scalable web applications and smart IoT-based solutions. Currently working on a Smart Agriculture System and developing a Project Portal System to streamline project submissions and evaluations. I combine strong backend logic with clean frontend design, leveraging AI tools like Cursor to ship quality code faster. Open to opportunities where I can grow, contribute, and solve real-world problems."*
 
 **⚡ Core Philosophy:** Write clean code, learn continuously, deliver value.
 
@@ -42,11 +42,11 @@
 
 ✅ **DSA Foundation** - Strong problem-solving skills  
 ✅ **Production-Ready Skills** - Spring Boot, REST APIs, MySQL, PostgreSQL  
-✅ **Current Project** - Building **Project Portal System** (Full Stack)  
-✅ **Fast Learner** - Picked up Spring Boot in 2 weeks  
+✅ **Current Projects** - Smart Agriculture System & Project Portal System  
+✅ **Fast Learner** - Picked up Spring Boot quickly through real projects  
 ✅ **Team Player** - Git/GitHub workflow expert  
 ✅ **Communication** - Fluent English, Technical documentation  
-✅ **AI Tools Proficiency** - Expert in **Cursor IDE** & **Prompt Engineering** for faster development  
+✅ **AI Tools Proficiency** - Expert in **Cursor IDE** & **Prompt Engineering**  
 ✅ **Database Expertise** - Skilled in **MySQL** & **PostgreSQL** (Queries, Optimization, Joins, Indexing)
 
 ---
@@ -54,12 +54,12 @@
 ## 🚀 **Tech Stack (Production Ready)**
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,maven,hibernate,mysql,postgres,html,css,js,bootstrap,git,github,vscode,idea,postman" />
+  <img src="https://skillicons.dev/icons?i=java,spring,maven,hibernate,mysql,postgres,html,css,js,bootstrap,git,github,vscode,idea,postman,react" />
 </p>
 
 <div align="center">
   
-  `☕ Java 17+` &nbsp;&nbsp; `🍃 Spring Boot` &nbsp;&nbsp; `🗄️ Hibernate` &nbsp;&nbsp; `🐬 MySQL` &nbsp;&nbsp; `🐘 PostgreSQL` &nbsp;&nbsp; `🔧 REST APIs`
+  `☕ Java 17+` &nbsp;&nbsp; `🍃 Spring Boot` &nbsp;&nbsp; `🗄️ Hibernate` &nbsp;&nbsp; `🐬 MySQL` &nbsp;&nbsp; `🐘 PostgreSQL` &nbsp;&nbsp; `⚛️ React` &nbsp;&nbsp; `🔧 REST APIs`
   
 </div>
 
@@ -69,12 +69,13 @@
 
 | Project | Tech Stack | Key Features | Status |
 |---------|------------|--------------|--------|
-| 🏗️ **Project Portal System** | Spring Boot, PostgreSQL, JSP | Student/Admin panel, project upload, evaluation | 🔄 **In Development** |
+| 🌾 **Smart Agriculture System** | Spring Boot, React, MySQL, IoT | Smart irrigation, crop monitoring, farmer dashboard, real-time sensor data | 🚧 **In Progress** |
+| 🏗️ **Project Portal System** | Spring Boot, PostgreSQL, JSP | Student/Admin panel, project upload, evaluation | 🔄 **90% Completed** |
 | 🚖 **Cab Booking System** | JSP, Servlet, MySQL | User auth, real-time booking, fare calculator | ✅ Complete |
 | 📦 **Queue DS Visualizer** | Java, Swing | Interactive visualization, all operations | ✅ Complete |
-| 🎨 **Portfolio Website** | HTML, CSS, JS | Responsive, animations, contact form | ✅ Complete |
+| 🎨 **Portfolio Website** | HTML, CSS, JS | Responsive design, animations, contact form | ✅ Complete |
 
-> 💡 *Live demo available for completed projects | Project Portal System launching soon*
+> 💡 *Currently working on Smart Agriculture System & finalizing Project Portal System*
 
 ---
 
@@ -102,7 +103,8 @@
   <img src="https://img.shields.io/badge/Cursor-Pro%20User-blue?style=for-the-badge&logo=cursor" />
   <img src="https://img.shields.io/badge/Prompt%20Engineering-Expert-00F7FF?style=for-the-badge" />
   <img src="https://img.shields.io/badge/PostgreSQL-Skilled-336791?style=for-the-badge&logo=postgresql" />
-  <img src="https://img.shields.io/badge/Project-Portal%20System-2ea44f?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Project%20Portal-90%25%20Completed-2ea44f?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Smart%20Agriculture-In%20Progress-green?style=for-the-badge" />
 </p>
 
 ---
@@ -119,9 +121,6 @@
   <a href="https://www.linkedin.com/in/pranav-nanaware-071b04250">
     <img src="https://img.shields.io/badge/🔗_LINKEDIN-Connect_Now-0077B5?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="tel:+919876543210">
-    <img src="https://img.shields.io/badge/📞_CONTACT-Phone_Call-green?style=for-the-badge&logo=whatsapp" />
-  </a>
 </p>
 
 ---
@@ -131,9 +130,10 @@
 ```diff
 + ✅ Available for immediate interview
 + ✅ Notice period: NONE (Immediate joiner)
-+ ✅ Portfolio: 3 completed projects + 1 in development
-+ ✅ Currently building: Project Portal System
-+ ✅ Tech stack: Java, Spring Boot, MySQL, PostgreSQL
++ ✅ Portfolio: Multiple completed projects
++ ✅ Smart Agriculture System currently in progress
++ ✅ Project Portal System 90% completed
++ ✅ Tech stack: Java, Spring Boot, MySQL, PostgreSQL, React
 + ✅ AI Tools: Cursor IDE + Prompt Engineering
 + ✅ Communication: Fluent English
 + ✅ Relocation: Open to any location
