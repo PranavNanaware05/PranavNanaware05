@@ -69,7 +69,7 @@
 
 | Project | Tech Stack | Key Features | Status |
 |---------|------------|--------------|--------|
-| 🌾 **Smart Agriculture System** | Spring Boot, React, MySQL, IoT | Smart irrigation, crop monitoring, farmer dashboard, real-time sensor data | 🚧 **In Progress** |
+| 🌾 **Smart Agriculture System** | Spring Boot, React, MySQL, IoT | Smart irrigation, crop monitoring, farmer dashboard, real-time sensor data | ✅ Complete|
 | 🏗️ **Project Portal System** | Spring Boot, PostgreSQL, JSP | Student/Admin panel, project upload, evaluation | 🔄 **90% Completed** |
 | 🚖 **Cab Booking System** | JSP, Servlet, MySQL | User auth, real-time booking, fare calculator | ✅ Complete |
 | 📦 **Queue DS Visualizer** | Java, Swing | Interactive visualization, all operations | ✅ Complete |
