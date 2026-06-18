@@ -1,6 +1,6 @@
 <!-- Typing Animation with Hiring Message -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=🔥+OPEN+TO+WORK+%7C+IMMEDIATE+JOINER;Pranav+Nanaware+-+Java+Full+Stack+Developer;Building+Smart+Agriculture+System;Project+Portal+System+-+90%25+Completed" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=🔥+OPEN+TO+WORK+%7C+IMMEDIATE+JOINER;Pranav+Nanaware+-+Java+Full+Stack+Developer;Building+Product+Management+System;All+Projects+Completed+%7C+Next+Big+Thing+Coming" />
 </p>
 
 <p align="center">
@@ -13,7 +13,7 @@
 
 ## 👨‍💻 **Bio**
 
-> *"Java Full Stack Developer passionate about building scalable web applications and smart IoT-based solutions. Currently working on a Smart Agriculture System and developing a Project Portal System to streamline project submissions and evaluations. I combine strong backend logic with clean frontend design, leveraging AI tools like Cursor to ship quality code faster. Open to opportunities where I can grow, contribute, and solve real-world problems."*
+> *"Java Full Stack Developer passionate about building scalable web applications and smart solutions. I've successfully completed multiple projects including Smart Agriculture System, Project Portal System, Cab Booking System, Queue DS Visualizer, and Portfolio Website. Currently working on Product Management System using Spring Boot, React, REST API, Maven, Hibernate, and MySQL. I combine strong backend logic with clean frontend design, leveraging AI tools like Cursor to ship quality code faster. Open to opportunities where I can grow, contribute, and solve real-world problems."*
 
 **⚡ Core Philosophy:** Write clean code, learn continuously, deliver value.
 
@@ -42,7 +42,8 @@
 
 ✅ **DSA Foundation** - Strong problem-solving skills  
 ✅ **Production-Ready Skills** - Spring Boot, REST APIs, MySQL, PostgreSQL  
-✅ **Current Projects** - Smart Agriculture System & Project Portal System  
+✅ **Completed Projects** - Smart Agriculture, Project Portal, Cab Booking, Queue Visualizer, Portfolio  
+✅ **Current Project** - Product Management System (Spring Boot + React)  
 ✅ **Fast Learner** - Picked up Spring Boot quickly through real projects  
 ✅ **Team Player** - Git/GitHub workflow expert  
 ✅ **Communication** - Fluent English, Technical documentation  
@@ -59,7 +60,7 @@
 
 <div align="center">
   
-  `☕ Java 17+` &nbsp;&nbsp; `🍃 Spring Boot` &nbsp;&nbsp; `🗄️ Hibernate` &nbsp;&nbsp; `🐬 MySQL` &nbsp;&nbsp; `🐘 PostgreSQL` &nbsp;&nbsp; `⚛️ React` &nbsp;&nbsp; `🔧 REST APIs`
+  `☕ Java 17+` &nbsp;&nbsp; `🍃 Spring Boot` &nbsp;&nbsp; `🗄️ Hibernate` &nbsp;&nbsp; `🐬 MySQL` &nbsp;&nbsp; `🐘 PostgreSQL` &nbsp;&nbsp; `⚛️ React` &nbsp;&nbsp; `🔧 REST APIs` &nbsp;&nbsp; `📦 Maven`
   
 </div>
 
@@ -69,13 +70,52 @@
 
 | Project | Tech Stack | Key Features | Status |
 |---------|------------|--------------|--------|
-| 🌾 **Smart Agriculture System** | Spring Boot, React, MySQL, IoT | Smart irrigation, crop monitoring, farmer dashboard, real-time sensor data | ✅ Complete|
-| 🏗️ **Project Portal System** | Spring Boot, PostgreSQL, JSP | Student/Admin panel, project upload, evaluation | 🔄 **90% Completed** |
-| 🚖 **Cab Booking System** | JSP, Servlet, MySQL | User auth, real-time booking, fare calculator | ✅ Complete |
-| 📦 **Queue DS Visualizer** | Java, Swing | Interactive visualization, all operations | ✅ Complete |
-| 🎨 **Portfolio Website** | HTML, CSS, JS | Responsive design, animations, contact form | ✅ Complete |
+| 🌾 **Smart Agriculture System** | Spring Boot, React, MySQL, IoT | Smart irrigation, crop monitoring, farmer dashboard, real-time sensor data | ✅ **Completed** |
+| 🏗️ **Project Portal System** | **Java, Advance Java, JSP, Servlets, MySQL** | Student/Admin panel, project upload, evaluation system | ✅ **Completed** |
+| 🛒 **Product Management System** | **Spring Boot, React, REST API, Maven, Hibernate, MySQL** | CRUD operations, inventory tracking, category management | 🔄 **Currently Working** |
+| 🚖 **Cab Booking System** | JSP, Servlet, MySQL | User auth, real-time booking, fare calculator | ✅ **Completed** |
+| 📦 **Queue DS Visualizer** | Java, Swing | Interactive visualization, all operations | ✅ **Completed** |
+| 🎨 **Portfolio Website** | HTML, CSS, JS | Responsive design, animations, contact form | ✅ **Completed** |
 
-> 💡 *Currently working on Smart Agriculture System & finalizing Project Portal System*
+> 💡 *Currently working on **Product Management System** with Spring Boot + React + REST API + Maven + Hibernate + MySQL*
+
+---
+
+## 🛒 **Product Management System - Current Project**
+
+**Tech Stack:** `Spring Boot`, `React`, `REST API`, `Maven`, `Hibernate`, `MySQL`
+
+> 🔄 **I'm currently building a Product Management System** to manage products, categories, inventory, and orders efficiently.
+
+### Features (In Development):
+- 📦 Product CRUD Operations (Add, Update, Delete, View)
+- 🏷️ Category Management
+- 📊 Inventory Tracking
+- 🔍 Product Search & Filter
+- 📈 Sales Dashboard
+- 🛍️ Order Management
+- 👤 User Authentication & Authorization
+
+### Modules:
+- ✅ Admin Module (Complete Control)
+- 🔄 Seller Module (Manage Products)
+- ⏳ Buyer Module (View & Purchase)
+
+---
+
+## 🏗️ **Project Portal System - Completed**
+
+**Tech Stack:** `Java`, `Advance Java`, `JSP`, `Servlets`, `MySQL`
+
+> ✅ **Successfully completed Project Portal System** to streamline project submissions and evaluations.
+
+### Features:
+- 🔐 Student & Admin Authentication
+- 📤 Project Upload & Submission
+- 📋 Project Review & Evaluation
+- 📊 Dashboard for Students & Admin
+- 📑 Report Generation
+- 💬 Feedback System
 
 ---
 
@@ -103,8 +143,8 @@
   <img src="https://img.shields.io/badge/Cursor-Pro%20User-blue?style=for-the-badge&logo=cursor" />
   <img src="https://img.shields.io/badge/Prompt%20Engineering-Expert-00F7FF?style=for-the-badge" />
   <img src="https://img.shields.io/badge/PostgreSQL-Skilled-336791?style=for-the-badge&logo=postgresql" />
-  <img src="https://img.shields.io/badge/Project%20Portal-90%25%20Completed-2ea44f?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Smart%20Agriculture-In%20Progress-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/All%20Projects-Completed-2ea44f?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Product%20Mgmt-In%20Progress-yellow?style=for-the-badge" />
 </p>
 
 ---
@@ -131,8 +171,12 @@
 + ✅ Available for immediate interview
 + ✅ Notice period: NONE (Immediate joiner)
 + ✅ Portfolio: Multiple completed projects
-+ ✅ Smart Agriculture System currently in progress
-+ ✅ Project Portal System 90% completed
++ ✅ Smart Agriculture System - COMPLETED
++ ✅ Project Portal System - COMPLETED (Java, JSP, Servlets, MySQL)
++ ✅ Cab Booking System - COMPLETED
++ ✅ Queue DS Visualizer - COMPLETED
++ ✅ Portfolio Website - COMPLETED
++ 🔄 Product Management System - CURRENTLY WORKING (Spring Boot, React, Hibernate, MySQL)
 + ✅ Tech stack: Java, Spring Boot, MySQL, PostgreSQL, React
 + ✅ AI Tools: Cursor IDE + Prompt Engineering
 + ✅ Communication: Fluent English
