@@ -152,7 +152,7 @@
 ## 📜 **Resume & Contact (Instant Response)**
 
 <p align="center">
-  <a href="https://drive.google.com/file/d/1ZSsXIQHGWSXIGJ0OhIjEmXTTbSsSGdh3/view?usp=drivesdk">
+  <a href="https://drive.google.com/file/d/18cXOhoOJdmN7WnGs5O9V9DGq4khNoJhZ/view?usp=drivesdk">
     <img src="https://img.shields.io/badge/📄_DOWNLOAD_RESUME-PDF-red?style=for-the-badge&logo=google-drive" />
   </a>
   <a href="mailto:npranav536@gmail.com">
