@@ -1,183 +1,284 @@
-<!-- Typing Animation with Hiring Message -->
+<!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=🔥+OPEN+TO+WORK+%7C+IMMEDIATE+JOINER;Pranav+Nanaware+-+Java+Full+Stack+Developer;Building+Product+Management+System;All+Projects+Completed+%7C+Next+Big+Thing+Coming" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=🔥+OPEN+TO+WORK+%7C+IMMEDIATE+JOINER;Pranav+Nanaware+-+Java+Full+Stack+Developer;Building+Scalable+Full+Stack+Applications;React+%7C+Hibernate+%7C+Java+%7C+MySQL" />
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=PranavNanaware05&label=Profile%20Views&color=0e75b6&style=flat-square" />
-  <img src="https://img.shields.io/badge/Status-Actively%20Looking-2ea44f?style=flat-square&logo=github" />
-  <img src="https://img.shields.io/badge/Notice%20Period-Immediate-red?style=flat-square&logo=clockify" />
+  <img src="https://img.shields.io/badge/Status-Open%20To%20Work-success?style=flat-square" />
+  <img src="https://img.shields.io/badge/Immediate%20Joiner-Yes-red?style=flat-square" />
 </p>
 
 ---
 
-## 👨‍💻 **Bio**
+# 👨‍💻 About Me
 
-> *"Java Full Stack Developer passionate about building scalable web applications and smart solutions. I've successfully completed multiple projects including Smart Agriculture System, Project Portal System, Cab Booking System, Queue DS Visualizer, and Portfolio Website. Currently working on Product Management System using Spring Boot, React, REST API, Maven, Hibernate, and MySQL. I combine strong backend logic with clean frontend design, leveraging AI tools like Cursor to ship quality code faster. Open to opportunities where I can grow, contribute, and solve real-world problems."*
+> **Java Full Stack Developer** passionate about building scalable web applications using **Java, React, Hibernate, MySQL, REST APIs, and Maven**. I enjoy solving real-world problems through clean code and modern UI development.
 
-**⚡ Core Philosophy:** Write clean code, learn continuously, deliver value.
+I have successfully developed multiple academic and full-stack projects including:
 
-**🎯 Motto:** *"Code. Build. Improve. Repeat."*
+- 🛒 Product Management System
+- 🌾 Smart Agriculture System
+- 🏗️ Project Portal System
+- 🚖 Cab Booking System
+- 📦 Queue Data Structure Visualizer
+- 🌐 Portfolio Website
+
+I continuously improve my skills by building projects and learning modern Java technologies.
+
+**⚡ Core Philosophy:** Write Clean Code • Learn Continuously • Build Real Projects
 
 ---
 
-## 🎯 **HIRE ME - Quick Summary**
+# 🎯 Quick Summary
 
 | Category | Details |
 |----------|---------|
-| 🎓 **Current Role** | Java Full Stack Developer (Fresher) |
-| ⚡ **Availability** | **Immediate Joiner** |
-| 📍 **Location** | Pune, India (Open to Relocation) |
-| 💼 **Preferred Roles** | Java Developer, Spring Boot Dev, Full Stack Java |
-| 🎯 **Target Companies** | Product-based, Fintech, Startups |
-| 📅 **Interview Ready** | Yes - Available any time |
+| 👨‍💻 Role | Java Full Stack Developer |
+| 🎓 Experience | Fresher |
+| 📍 Location | Pune, India |
+| ⚡ Availability | Immediate Joiner |
+| 💼 Looking For | Java Developer / Full Stack Developer |
+| 🌍 Relocation | Yes |
 
 ---
 
-## 👨‍💻 **Why Hire Me?**
+# 🚀 Tech Stack
 
 <p align="center">
-  <img align="right" alt="coding" width="280" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<img src="https://skillicons.dev/icons?i=java,hibernate,mysql,react,html,css,js,maven,git,github,eclipse,vscode,postman" />
 </p>
 
-✅ **DSA Foundation** - Strong problem-solving skills  
-✅ **Production-Ready Skills** - Spring Boot, REST APIs, MySQL, PostgreSQL  
-✅ **Completed Projects** - Smart Agriculture, Project Portal, Cab Booking, Queue Visualizer, Portfolio  
-✅ **Current Project** - Product Management System (Spring Boot + React)  
-✅ **Fast Learner** - Picked up Spring Boot quickly through real projects  
-✅ **Team Player** - Git/GitHub workflow expert  
-✅ **Communication** - Fluent English, Technical documentation  
-✅ **AI Tools Proficiency** - Expert in **Cursor IDE** & **Prompt Engineering**  
-✅ **Database Expertise** - Skilled in **MySQL** & **PostgreSQL** (Queries, Optimization, Joins, Indexing)
+### Backend
+- Java
+- Advanced Java
+- Servlets
+- JSP
+- Hibernate ORM
+- JDBC
+- REST APIs
+
+### Frontend
+- React.js
+- HTML5
+- CSS3
+- JavaScript
+- Bootstrap
+
+### Database
+- MySQL
+- PostgreSQL (Basics)
+
+### Tools
+- Maven
+- Git
+- GitHub
+- Apache Tomcat
+- Eclipse IDE
+- VS Code
+- Postman
+
+### AI Assisted Development
+- Cursor IDE
+- GitHub Copilot
+- Prompt Engineering
 
 ---
 
-## 🚀 **Tech Stack (Production Ready)**
+# 📂 Featured Projects
+
+| Project | Technologies | Status |
+|----------|-------------|--------|
+| 🛒 Product Management System | React, Java Servlets, Hibernate, MySQL, Maven | ✅ Completed |
+| 🌾 Smart Agriculture System | Spring Boot, React, MySQL | ✅ Completed |
+| 🏗️ Project Portal System | Java, JSP, Servlets, MySQL | ✅ Completed |
+| 🚖 Cab Booking System | JSP, Servlets, MySQL | ✅ Completed |
+| 📦 Queue Data Structure Visualizer | Java Swing | ✅ Completed |
+| 🌐 Portfolio Website | HTML, CSS, JavaScript | ✅ Completed |
+
+---
+
+# 🛒 Product Management System
+
+### Tech Stack
+
+- React.js
+- Java Servlets
+- Hibernate ORM
+- MySQL
+- Maven
+- Apache Tomcat
+- Jackson
+
+### Features
+
+- User Registration
+- User Login
+- Admin Login
+- Product CRUD
+- Product Search
+- REST API Integration
+- Hibernate ORM
+- JSON Communication
+- Responsive UI
+
+### Workflow
+
+```text
+React Frontend
+        │
+        ▼
+ Java Servlet Controller
+        │
+        ▼
+ Hibernate DAO Layer
+        │
+        ▼
+    MySQL Database
+```
+
+---
+
+# 🌾 Smart Agriculture System
+
+### Tech Stack
+
+- Spring Boot
+- React
+- Hibernate
+- MySQL
+
+### Features
+
+- Farmer Management
+- Crop Management
+- Smart Irrigation
+- Weather Monitoring
+- Dashboard
+- REST APIs
+
+---
+
+# 🏗️ Project Portal System
+
+### Features
+
+- Student Login
+- Admin Login
+- Project Submission
+- Project Evaluation
+- Dashboard
+
+---
+
+# 📈 Currently Learning
+
+- Spring Boot
+- Spring Security
+- JWT Authentication
+- Docker Basics
+- Microservices Fundamentals
+
+---
+
+# 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,maven,hibernate,mysql,postgres,html,css,js,bootstrap,git,github,vscode,idea,postman,react" />
-</p>
-
-<div align="center">
-  
-  `☕ Java 17+` &nbsp;&nbsp; `🍃 Spring Boot` &nbsp;&nbsp; `🗄️ Hibernate` &nbsp;&nbsp; `🐬 MySQL` &nbsp;&nbsp; `🐘 PostgreSQL` &nbsp;&nbsp; `⚛️ React` &nbsp;&nbsp; `🔧 REST APIs` &nbsp;&nbsp; `📦 Maven`
-  
-</div>
-
----
-
-## 📂 **Featured Projects**
-
-| Project | Tech Stack | Key Features | Status |
-|---------|------------|--------------|--------|
-| 🌾 **Smart Agriculture System** | Spring Boot, React, MySQL, IoT | Smart irrigation, crop monitoring, farmer dashboard, real-time sensor data | ✅ **Completed** |
-| 🏗️ **Project Portal System** | **Java, Advance Java, JSP, Servlets, MySQL** | Student/Admin panel, project upload, evaluation system | ✅ **Completed** |
-| 🛒 **Product Management System** | **Spring Boot, React, REST API, Maven, Hibernate, MySQL** | CRUD operations, inventory tracking, category management | 🔄 **Currently Working** |
-| 🚖 **Cab Booking System** | JSP, Servlet, MySQL | User auth, real-time booking, fare calculator | ✅ **Completed** |
-| 📦 **Queue DS Visualizer** | Java, Swing | Interactive visualization, all operations | ✅ **Completed** |
-| 🎨 **Portfolio Website** | HTML, CSS, JS | Responsive design, animations, contact form | ✅ **Completed** |
-
-> 💡 *Currently working on **Product Management System** with Spring Boot + React + REST API + Maven + Hibernate + MySQL*
-
----
-
-## 🛒 **Product Management System - Current Project**
-
-**Tech Stack:** `Spring Boot`, `React`, `REST API`, `Maven`, `Hibernate`, `MySQL`
-
-> 🔄 **I'm currently building a Product Management System** to manage products, categories, inventory, and orders efficiently.
-
-### Features (In Development):
-- 📦 Product CRUD Operations (Add, Update, Delete, View)
-- 🏷️ Category Management
-- 📊 Inventory Tracking
-- 🔍 Product Search & Filter
-- 📈 Sales Dashboard
-- 🛍️ Order Management
-- 👤 User Authentication & Authorization
-
-### Modules:
-- ✅ Admin Module (Complete Control)
-- 🔄 Seller Module (Manage Products)
-- ⏳ Buyer Module (View & Purchase)
-
----
-
-## 🏗️ **Project Portal System - Completed**
-
-**Tech Stack:** `Java`, `Advance Java`, `JSP`, `Servlets`, `MySQL`
-
-> ✅ **Successfully completed Project Portal System** to streamline project submissions and evaluations.
-
-### Features:
-- 🔐 Student & Admin Authentication
-- 📤 Project Upload & Submission
-- 📋 Project Review & Evaluation
-- 📊 Dashboard for Students & Admin
-- 📑 Report Generation
-- 💬 Feedback System
-
----
-
-## 📊 **GitHub Activity (Consistent Contributor)**
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PranavNanaware05&theme=radical&hide_border=true&fire=FF4500&ring=00F7FF" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=PranavNanaware05&theme=radical&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=PranavNanaware05&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PranavNanaware05&layout=compact&theme=radical&hide_border=true" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=PranavNanaware05&show_icons=true&theme=radical&hide_border=true"/>
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PranavNanaware05&layout=compact&theme=radical&hide_border=true"/>
 </p>
 
 ---
 
-## 🏆 **Achievements & Badges**
+# 🏆 Skills
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=PranavNanaware05&theme=radical&no-frame=true&row=1&column=6" />
-</p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/DSA-Strong%20Foundation-orange?style=for-the-badge&logo=leetcode" />
-  <img src="https://img.shields.io/badge/Cursor-Pro%20User-blue?style=for-the-badge&logo=cursor" />
-  <img src="https://img.shields.io/badge/Prompt%20Engineering-Expert-00F7FF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/PostgreSQL-Skilled-336791?style=for-the-badge&logo=postgresql" />
-  <img src="https://img.shields.io/badge/All%20Projects-Completed-2ea44f?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Product%20Mgmt-In%20Progress-yellow?style=for-the-badge" />
-</p>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
 
----
+<img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white"/>
 
-## 📜 **Resume & Contact (Instant Response)**
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 
-<p align="center">
-  <a href="https://drive.google.com/file/d/18cXOhoOJdmN7WnGs5O9V9DGq4khNoJhZ/view?usp=drivesdk">
-    <img src="https://img.shields.io/badge/📄_DOWNLOAD_RESUME-PDF-red?style=for-the-badge&logo=google-drive" />
-  </a>
-  <a href="mailto:npranav536@gmail.com">
-    <img src="https://img.shields.io/badge/📧_EMAIL_ME-24hrs_Response-blue?style=for-the-badge&logo=gmail" />
-  </a>
-  <a href="https://www.linkedin.com/in/pranav-nanaware-071b04250">
-    <img src="https://img.shields.io/badge/🔗_LINKEDIN-Connect_Now-0077B5?style=for-the-badge&logo=linkedin" />
-  </a>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Git-GitHub-F05032?style=for-the-badge&logo=git"/>
+
 </p>
 
 ---
 
-## 🎬 **Recruiter's Quick Checklist**
+# 📜 Resume & Contact
+
+<p align="center">
+
+<a href="https://drive.google.com/file/d/18cXOhoOJdmN7WnGs5O9V9DGq4khNoJhZ/view">
+
+<img src="https://img.shields.io/badge/Resume-Download-red?style=for-the-badge&logo=google-drive"/>
+
+</a>
+
+<a href="mailto:npranav536@gmail.com">
+
+<img src="https://img.shields.io/badge/Email-Contact-blue?style=for-the-badge&logo=gmail"/>
+
+</a>
+
+<a href="https://www.linkedin.com/in/pranav-nanaware-071b04250">
+
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin"/>
+
+</a>
+
+</p>
+
+---
+
+# 📋 Recruiter's Checklist
 
 ```diff
-+ ✅ Available for immediate interview
-+ ✅ Notice period: NONE (Immediate joiner)
-+ ✅ Portfolio: Multiple completed projects
-+ ✅ Smart Agriculture System - COMPLETED
-+ ✅ Project Portal System - COMPLETED (Java, JSP, Servlets, MySQL)
-+ ✅ Cab Booking System - COMPLETED
-+ ✅ Queue DS Visualizer - COMPLETED
-+ ✅ Portfolio Website - COMPLETED
-+ 🔄 Product Management System - CURRENTLY WORKING (Spring Boot, React, Hibernate, MySQL)
-+ ✅ Tech stack: Java, Spring Boot, MySQL, PostgreSQL, React
-+ ✅ AI Tools: Cursor IDE + Prompt Engineering
-+ ✅ Communication: Fluent English
-+ ✅ Relocation: Open to any location
++ Immediate Joiner
++ Open to Relocation
++ Java Full Stack Developer
++ React.js
++ Java Servlets
++ Hibernate ORM
++ MySQL
++ PostgreSQL (Basics)
++ REST API Development
++ Maven
++ Git & GitHub
++ Product Management System
++ Smart Agriculture System
++ Project Portal System
++ Cab Booking System
++ Strong Java Fundamentals
++ Excellent Learning Attitude
+```
+
+---
+
+# 👨‍💻 Author
+
+## Pranav Nanaware
+
+**Java Full Stack Developer**
+
+📧 Email: **npranav536@gmail.com**
+
+🔗 LinkedIn: **https://www.linkedin.com/in/pranav-nanaware-071b04250**
+
+💻 GitHub: **https://github.com/PranavNanaware05**
+
+---
+
+# ⭐ If you like my work, don't forget to star my repositories!
