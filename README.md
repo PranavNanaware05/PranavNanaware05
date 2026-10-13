@@ -13,17 +13,23 @@
 
 # 👨‍💻 About Me
 
-> **Java Full Stack Developer** with a strong foundation in Java, React, Hibernate, MySQL, REST APIs and Maven, currently expanding my skills in **Python, Data Science, Machine Learning and Generative AI**.
+> **Java Full Stack Developer** passionate about building scalable web applications using **Java, React, Spring Boot, Hibernate, MySQL, REST APIs, and Maven**. Currently expanding my skills in **Python, Data Science, Machine Learning, and Generative AI**.
 
-I enjoy building real-world applications, solving programming problems and continuously learning new technologies.
+I enjoy solving real-world problems through clean code, modern UI development, backend technologies, and data-driven solutions.
 
-Currently, I am building my foundation in Data Science through:
+I have successfully developed multiple academic and full-stack projects including:
 
-**Python → NumPy → Pandas → Matplotlib → Scikit-learn → Machine Learning → AI**
+- 🛒 Product Management System
+- 🌾 Smart Agriculture System
+- 🏗️ Project Portal System
+- 🚖 Cab Booking System
+- 📦 Queue Data Structure Visualizer
+- 🌐 Portfolio Website
 
-### ⚡ Core Philosophy
+I continuously improve my skills by building projects and learning modern technologies.
 
-**Learn Continuously • Practice Consistently • Build Real Projects**
+**⚡ Core Philosophy:**  
+**Write Clean Code • Learn Continuously • Build Real Projects**
 
 ---
 
@@ -35,7 +41,7 @@ Currently, I am building my foundation in Data Science through:
 | 🎓 Education | B.Tech - Electronics & Telecommunication Engineering |
 | 📍 Location | Pune, India |
 | ⚡ Availability | Immediate Joiner |
-| 💼 Looking For | Java Developer / Full Stack Developer / Entry-Level Software Roles |
+| 💼 Looking For | Java Developer / Full Stack Developer / Software Developer |
 | 🌱 Currently Learning | Python, Data Science & AI |
 | 🌍 Relocation | Yes |
 
@@ -43,13 +49,12 @@ Currently, I am building my foundation in Data Science through:
 
 # 🚀 Tech Stack
 
-## ☕ Java Full Stack
-
 <p align="center">
 <img src="https://skillicons.dev/icons?i=java,spring,hibernate,mysql,react,html,css,js,maven,git,github,eclipse,vscode,postman" />
 </p>
 
-### Backend
+## Backend
+
 - Java
 - Core Java
 - Advanced Java
@@ -61,23 +66,27 @@ Currently, I am building my foundation in Data Science through:
 - Spring Boot
 - REST APIs
 
-### Frontend
+## Frontend
+
 - React.js
 - HTML5
 - CSS3
 - JavaScript
 - Bootstrap
 
-### Database
+## Database
+
 - MySQL
 - PostgreSQL
 - MongoDB
 
-### Tools
+## DevOps & Tools
+
 - Maven
 - Git
 - GitHub
 - Jenkins
+- CI/CD
 - Apache Tomcat
 - Eclipse IDE
 - VS Code
@@ -91,25 +100,32 @@ Currently, I am building my foundation in Data Science through:
 <img src="https://skillicons.dev/icons?i=python" />
 </p>
 
-### Python
+I am building my Data Science foundation using Python and its major libraries.
+
+## 🐍 Python
+
 - Python Fundamentals
+- Variables & Data Types
+- Conditions & Loops
 - Functions
 - OOP
 - Exception Handling
 - File Handling
 - Data Structures
 
-### NumPy
-- Arrays
+## 🔢 NumPy
+
+- NumPy Arrays
 - Indexing & Slicing
-- Reshape
-- Flatten
-- Boolean Indexing
+- Reshaping
+- Flattening
 - Array Operations
+- Boolean Indexing
 - Aggregation
 - Axis Operations
 
-### Pandas
+## 🐼 Pandas
+
 - Series
 - DataFrame
 - Data Selection
@@ -122,7 +138,8 @@ Currently, I am building my foundation in Data Science through:
 - `map()`
 - Data Cleaning
 
-### Matplotlib
+## 📊 Matplotlib
+
 - Line Plot
 - Bar Chart
 - Scatter Plot
@@ -132,6 +149,7 @@ Currently, I am building my foundation in Data Science through:
 - Legends
 - Grid
 - Subplots
+- Data Visualization
 
 ---
 
@@ -145,55 +163,53 @@ Currently, I am building my foundation in Data Science through:
 
 ---
 
-# 📚 Learning Journey
+# 📂 Featured Projects
+
+| Project | Technologies | Status |
+|----------|-------------|--------|
+| 🛒 Product Management System | React, Java Servlets, Hibernate, MySQL, Maven | ✅ Completed |
+| 🌾 Smart Agriculture System | Spring Boot, React, MySQL | ✅ Completed |
+| 🏗️ Project Portal System | Java, JSP, Servlets, MySQL | ✅ Completed |
+| 🚖 Cab Booking System | JSP, Servlets, MySQL | ✅ Completed |
+| 📦 Queue Data Structure Visualizer | Java Swing | ✅ Completed |
+| 🌐 Portfolio Website | HTML, CSS, JavaScript | ✅ Completed |
+
+---
+
+# 🛒 Product Management System
+
+### Tech Stack
+
+- React.js
+- Java Servlets
+- Hibernate ORM
+- MySQL
+- Maven
+- Apache Tomcat
+- Jackson
+
+### Features
+
+- User Registration
+- User Login
+- Admin Login
+- Product CRUD
+- Product Search
+- REST API Integration
+- Hibernate ORM
+- JSON Communication
+- Responsive UI
+
+### Workflow
 
 ```text
-🐍 Python
-     │
-     ▼
-🔢 NumPy
-     │
-     ▼
-🐼 Pandas
-     │
-     ▼
-📊 Matplotlib
-     │
-     ▼
-🤖 Scikit-learn
-     │
-     ▼
-🧠 Machine Learning
-     │
-     ▼
-🔥 PyTorch
-     │
-     ▼
-🧠 LLMs
-     │
-     ▼
-✨ Generative AI
-     │
-     ▼
-🔍 Embeddings
-     │
-     ▼
-🗄️ Vector Databases
-     │
-     ▼
-📚 RAG
-     │
-     ▼
-🔗 LangChain
-     │
-     ▼
-🕸️ LangGraph
-     │
-     ▼
-⚡ FastAPI
-     │
-     ▼
-🐳 Docker
-     │
-     ▼
-☁️ AWS
+React Frontend
+        │
+        ▼
+Java Servlet Controller
+        │
+        ▼
+Hibernate DAO Layer
+        │
+        ▼
+MySQL Database
